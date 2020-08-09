@@ -1,1 +1,1 @@
-# SimoneGame
+# SimonGame
